@@ -1,5 +1,3 @@
-//javescript was seen from youtube video (https://youtu.be/j59qQ7YWLxw) and other errors was fixed by Kakashi :) 
-
 class Calculator{
 	constructor(previousTextElement, currentTextElement) {
 		this.previousTextElement = previousTextElement
