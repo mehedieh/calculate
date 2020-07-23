@@ -1,8 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Helvetica&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&display=swap');
 *, *::before, *::after{
     box-sizing: border-box;
-    font-family: sans-serif;
+    font-family: Playfair Display;
     font-weight: normal;
     font-size: 10px;
 }
@@ -17,7 +16,7 @@ h4{
     color: #fff;
     font-size: 50px;
     text-align: center;
-    font-family: 'Helvetica', Bold;
+    font-family: 'Playfair Display', Bold;
     font-weight: bold;
     text-shadow: -2px -2px 10px #fc737c;
 }
@@ -104,13 +103,13 @@ footer{
    font-size: 32px;
 	font-weight: bold;
 	text-shadow: 2px 2px 5px #fc737c;
-	font-family: 'Helvetica', Bold;
+	font-family: 'Playfair Display', Bold;
 }
 a{
 	color: #fff;
    font-size: 35px;
 	font-weight: bold;
 	text-decoration:none;
-   font-family: 'Helvetica', Bold;
+   font-family: 'Playfair Display', Bold;
 	text-shadow: 2px 2px 5px #fc737c;
 }
