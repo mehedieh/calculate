@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@700&display=swap');
 *, *::before, *::after{
     box-sizing: border-box;
-    font-family: Playfair Display;
+    font-family: roboto;
     font-weight: normal;
     font-size: 10px;
 }
@@ -9,14 +9,14 @@
 body{
     padding:0;
     margin: 0;
-    background: rgba(255,0,0,0.2);
+    background: rgba(255, 192, 203, 0.7);
 }
 
 h4{
     color: #fff;
     font-size: 50px;
     text-align: center;
-    font-family: 'Playfair Display', Bold;
+    font-family: 'Grenze Gotisch', cursive;
     font-weight: bold;
     text-shadow: -2px -2px 10px #fc737c;
 }
@@ -26,9 +26,9 @@ h4{
 	width: 350px;
 	height: 540px;
 	position: relative;
-	background: owl yellow;
+	background: Yellow;
 	border-radius: 20px;
-   justify-content: center;
+    justify-content: center;
 	box-shadow: 2px 2px 15px rgb(248, 147, 165);
 }
 
@@ -58,8 +58,8 @@ h4{
 button{
     border-radius: 50%;
     border: none;
-	 background: linear-gradient(315deg, #fc737c, pink);
-	 box-shadow: 2px 2px 6px #f58787;
+	background: linear-gradient(315deg, #fc737c, pink);
+	box-shadow: 2px 2px 6px #f58787;
 }
 
 button:active{
@@ -72,23 +72,23 @@ button:active{
     display: flex;
     align-items: flex-end;
     justify-content: space-around;
-	 flex-direction:column;
-	 padding: 0px 20px;
-	 word-wrap: break-word;
-	 word-break: break-all;
+	flex-direction:column;
+	padding: 0px 20px;
+	word-wrap: break-word;
+	word-break: break-all;
     border-radius: 30px;
     margin: 35px 0 30px 0;
 }
 .output .previous {
 	color: rgb(255, 255, 255, .7);
 	font-size: 20px;
-   margin-top:10px;
+    margin-top:10px;
 }
 
 .output .current {
 	color: #fff;
 	font-size: 25px;
-   margin: 5px 0;
+    margin: 5px 0;
 }
 
 
@@ -100,16 +100,16 @@ footer{
 	width: 100%;
 	text-align: center;
 	color: #fff;
-   font-size: 32px;
+    font-size: 32px;
 	font-weight: bold;
 	text-shadow: 2px 2px 5px #fc737c;
-	font-family: 'Playfair Display', Bold;
+	font-family: 'Grenze Gotisch', cursive;
 }
 a{
 	color: #fff;
-   font-size: 35px;
+    font-size: 35px;
 	font-weight: bold;
 	text-decoration:none;
-   font-family: 'Playfair Display', Bold;
+    font-family: 'Grenze Gotisch', cursive;
 	text-shadow: 2px 2px 5px #fc737c;
 }
